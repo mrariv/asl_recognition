@@ -27,11 +27,13 @@ git clone https://github.com/mrariv/asl_recognition.git
 cd asl_recognition
 
 # Install dependencies
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ## 🍵 Usage
 ```bash
 python run.py # Default webcam (camera ID 0)
+```
 
 ## 🙏 Contributors
 Thanks to all the amazing people who contributed! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for details.
